@@ -30,3 +30,6 @@ To get started with this project, you’ll need Python and a few dependencies. I
   [NEAT-Python Documentation](https://neat-python.readthedocs.io/en/latest/)
 
 Please then download the files: `flappy_bird.py`, `config-feedforward.txt`, and the `imgs` folder, and save them all in the same directory on your machine.
+
+### How It Works
+
