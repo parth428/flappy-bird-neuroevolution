@@ -9,7 +9,6 @@ This project is an implementation of the Flappy Bird game, enhanced with NEAT (N
 - [Running the Project](#running-the-project)
 - [Results](#results)
 - [Future Improvements](#future-improvements)
-- [Contributors](#contributors)
 
 ## Introduction
 This project combines the popular Flappy Bird game mechanics with NEAT AI to simulate evolutionary behavior in a neural network. Using NEAT, the AI agent trains through several generations to improve its performance in navigating through obstacles in the game.
