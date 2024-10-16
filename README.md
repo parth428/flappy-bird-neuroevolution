@@ -27,3 +27,11 @@ First, clone this repository to your local machine using Git.
 ```bash
 git clone https://github.com/YourUsername/flappy-bird-neat-ai.git
 cd flappy-bird-neat-ai
+
+### Step 2: Install Dependencies
+Install the required Python libraries by running the following command:
+
+```bash
+pip install neat-python pygame
+
+
