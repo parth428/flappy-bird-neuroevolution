@@ -1,0 +1,5 @@
+pip install ____ :
+
+pygame
+neat-python
+
