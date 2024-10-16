@@ -22,5 +22,8 @@ For more information, you can check out the [NEAT-Python Documentation](https://
 ## Installation
 To get started with this project, you’ll need Python and a few dependencies. Install them with the following command:
 
-```bash
-pip install pygame neat-python
+  ```bash
+  pip install pygame neat-python
+  ```
+  Pygame Documentation
+  NEAT-Python Documentation
