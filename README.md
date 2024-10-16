@@ -63,13 +63,13 @@ The program will initiate the Flappy Bird game. NEAT will begin to train a neura
 As the generations progress, the birds begin to improve significantly, learning when to flap to avoid hitting pipes. With each new generation, the networks evolve better strategies for survival.
 
 After running the NEAT algorithm for a sufficient number of generations, you'll observe:
-    Birds surviving longer
-    Increasing fitness scores
-    Better overall performance in navigating through the pipes
+    - Birds surviving longer
+    - Increasing fitness scores
+    - Better overall performance in navigating through the pipes
   
 Example Results:
-    Generation 1: The birds will likely crash quickly as they have not yet learned to navigate the pipes.
-    Generation 10: After several generations, the birds should be able to pass through multiple pipes without hitting them.
+    - Generation 1: The birds will likely crash quickly as they have not yet learned to navigate the pipes.
+    - Generation 10: After several generations, the birds should be able to pass through multiple pipes without hitting them.
 
 ## Future Improvements
 
