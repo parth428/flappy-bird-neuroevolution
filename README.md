@@ -67,7 +67,7 @@ After running the NEAT algorithm for a sufficient number of generations, you'll 
     Increasing fitness scores
     Better overall performance in navigating through the pipes
   
-Example Results
+Example Results:
     Generation 1: The birds will likely crash quickly as they have not yet learned to navigate the pipes.
     Generation 10: After several generations, the birds should be able to pass through multiple pipes without hitting them.
 
