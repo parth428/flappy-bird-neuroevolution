@@ -20,10 +20,7 @@ NEAT, or **NeuroEvolution of Augmenting Topologies**, is a genetic algorithm des
 For more information, you can check out the [NEAT-Python Documentation](https://neat-python.readthedocs.io/en/latest/).
 
 ## Installation
-To get started with this project, you’ll need Python and a few dependencies. Follow the steps below to install everything required:
+To get started with this project, you’ll need Python and a few dependencies. Install them with the following command:
 
-1. Clone this repository:
-   ```bash
-   git clone <repository-url>
-
-2. 
+```bash
+pip install pygame neat-python
