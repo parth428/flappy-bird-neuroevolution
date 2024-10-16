@@ -25,5 +25,6 @@ To get started with this project, you’ll need Python and a few dependencies. I
   ```bash
   pip install pygame neat-python
   ```
-  Pygame Documentation
-  NEAT-Python Documentation
+  [Pygame Documentation](https://www.pygame.org/docs/)
+  
+  [NEAT-Python Documentation](https://neat-python.readthedocs.io/en/latest/).
