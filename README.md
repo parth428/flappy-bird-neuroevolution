@@ -11,7 +11,8 @@ This project is an implementation of the Flappy Bird game, enhanced with NEAT (N
 - [Future Improvements](#future-improvements)
 
 ## Introduction
-This project combines the popular Flappy Bird game mechanics with NEAT AI to simulate evolutionary behavior in a neural network. Using NEAT, the AI agent trains through several generations to improve its performance in navigating through obstacles in the game.
+This project combines the popular Flappy Bird game mechanics with NEAT AI to create an evolving neural network that learns and adapts to improve its gameplay.. Using NEAT, the AI agent trains through several generations to improve its performance in navigating through obstacles in the game.
+
 
 ### What is NEAT?
 NEAT, or **NeuroEvolution of Augmenting Topologies**, is a genetic algorithm designed to evolve artificial neural networks. NEAT optimizes both the topology (structure) and weights of a neural network simultaneously, allowing networks to evolve over time by mimicking natural selection. This method is beneficial for tasks that require continuous adaptation, as it grows neural networks incrementally, adding complexity only as needed.
@@ -24,6 +25,8 @@ To get started with this project, you’ll need Python and a few dependencies. I
   ```bash
   pip install pygame neat-python
   ```
+  Pygame is a library for creating graphics and game mechanics, while NEAT-Python is a Python implementation of the NEAT algorithm for training neural networks. The documentation for the libraries is linked below:
+  
   [Pygame Documentation](https://www.pygame.org/docs/)
   
   [NEAT-Python Documentation](https://neat-python.readthedocs.io/en/latest/)
