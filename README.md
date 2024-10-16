@@ -1,6 +1,6 @@
-# Flappy Bird AI with NEAT NeuroEvolution
+# Python Project: Flappy Bird with NEAT AI
 
-This project implements an AI to play the popular game **Flappy Bird** using the **NEAT (NeuroEvolution of Augmenting Topologies)** algorithm. The AI evolves over generations to optimize the bird's performance, aiming to achieve the highest fitness by navigating through pipes without collisions.
+This project is an implementation of the Flappy Bird game, enhanced with NEAT (NeuroEvolution of Augmenting Topologies) AI to create an intelligent agent that learns to play the game autonomously.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -12,26 +12,18 @@ This project implements an AI to play the popular game **Flappy Bird** using the
 - [Contributors](#contributors)
 
 ## Introduction
-The goal of this project is to demonstrate the power of **NeuroEvolution** by applying it to a simple game. The NEAT algorithm evolves both the architecture and weights of a neural network, allowing the bird to learn how to navigate the game environment.
+This project combines the popular Flappy Bird game mechanics with NEAT AI to simulate evolutionary behavior in a neural network. Using NEAT, the AI agent trains through several generations to improve its performance in navigating through obstacles in the game.
+
+### What is NEAT?
+NEAT, or **NeuroEvolution of Augmenting Topologies**, is a genetic algorithm designed to evolve artificial neural networks. NEAT optimizes both the topology (structure) and weights of a neural network simultaneously, allowing networks to evolve over time by mimicking natural selection. This method is beneficial for tasks that require continuous adaptation, as it grows neural networks incrementally, adding complexity only as needed.
+
+For more information, you can check out the [NEAT-Python Documentation](https://neat-python.readthedocs.io/en/latest/).
 
 ## Installation
+To get started with this project, you’ll need Python and a few dependencies. Follow the steps below to install everything required:
 
-### Prerequisites
-You will need Python 3.x installed on your machine along with the following libraries:
-- `neat-python`: Library for implementing NEAT algorithms
-- `pygame`: Library to handle the game rendering and logic
+1. Clone this repository:
+   ```bash
+   git clone <repository-url>
 
-### Step 1: Clone the Repository
-First, clone this repository to your local machine using Git.
-
-```bash
-git clone https://github.com/YourUsername/flappy-bird-neat-ai.git
-cd flappy-bird-neat-ai
-
-### Step 2: Install Dependencies
-Install the required Python libraries by running the following command:
-
-```bash
-pip install neat-python pygame
-
-
+2. 
