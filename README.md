@@ -31,8 +31,7 @@ To get started with this project, you’ll need Python and a few dependencies. I
 
 Please then download the files: `flappy_bird.py`, `config-feedforward.txt`, and the `imgs` folder, and save them all in the same directory on your machine.
 
-### How It Works
-How It Works
+## How It Works
 
 The NEAT AI algorithm enables the creation of an evolving neural network that learns to play Flappy Bird through fitness scores. Here’s a breakdown of how NEAT works in this project:
 
