@@ -42,7 +42,7 @@ The NEAT AI algorithm enables the creation of an evolving neural network that le
 - Selection and Reproduction: After each generation, the networks with the highest fitness scores are selected to form the basis for the next generation. NEAT introduces crossover and mutation in these networks, creating a new generation of agents with slightly modified characteristics, ideally improving performance over time.
   - Crossover: Combines genes from two parent networks to form a new network, inheriting traits from both.
   - Mutation: Randomly changes certain attributes, such as network weights or node connections, introducing variety into the population.
-  - 
+
 - Complexifying the Network: One of NEAT’s core strengths is its ability to complexify networks by adding nodes and connections only as needed. Starting with simple networks, NEAT progressively adds complexity, leading to an optimized network capable of higher performance without excessive structural overhead.
   
 - Iterating Generations: This process of selection, crossover, mutation, and complexification continues for several generations. Over time, networks evolve to exhibit improved gameplay, adapting their strategies based on fitness criteria.
@@ -53,4 +53,22 @@ The config-feedforward.txt file sets key NEAT parameters, including:
   - Mutation and Crossover Rates: Determines how frequently changes occur in the network’s structure.
     
 This evolutionary approach allows the agent to autonomously improve its ability to navigate the Flappy Bird game through successive generations, adapting its neural network structure to achieve higher scores.
+
+## Running The Project
+```bash
+  python flappy_bird.py
+  ```
+The program will initiate the Flappy Bird game. NEAT will begin to train a neural network agent to play the game by evaluating its performance in successive generations.
+
+## Results
+As the generations progress, the birds begin to improve significantly, learning when to flap to avoid hitting pipes. With each new generation, the networks evolve better strategies for survival.
+
+After running the NEAT algorithm for a sufficient number of generations, you'll observe:
+  Birds surviving longer
+  Increasing fitness scores
+  Better overall performance in navigating through the pipes
+  
+  ###Example Results
+  Generation 1: The birds will likely crash quickly as they have not yet learned to navigate the pipes.
+  Generation 10: After several generations, the birds should be able to pass through multiple pipes without hitting them.
 
