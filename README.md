@@ -1,4 +1,5 @@
-# Python Project: Flappy Bird with NEAT AI https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFlappy_Bird&psig=AOvVaw2Ez0ANQ8eGBmXETE65pwDS&ust=1729278456331000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDJu7KOlokDFQAAAAAdAAAAABAE![image](https://github.com/user-attachments/assets/774c188d-cc8e-44c4-99bc-48b8d0aa8c03)
+# Python Project: Flappy Bird with NEAT AI <img width="258" alt="image" src="https://github.com/user-attachments/assets/5530545a-849a-4ec2-84f1-a7e288d5b788">
+
 
 
 This project is an implementation of the Flappy Bird game, enhanced with NEAT (NeuroEvolution of Augmenting Topologies) AI/ Machine Learning to create an intelligent agent that learns to play the game autonomously.
