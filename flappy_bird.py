@@ -27,7 +27,7 @@ PIPE_IMG = pygame.transform.scale2x(pygame.image.load(os.path.join("imgs", "pipe
 BASE_IMG = pygame.transform.scale2x(pygame.image.load(os.path.join("imgs", "base.png")))
 BG_IMG = pygame.transform.scale2x(pygame.image.load(os.path.join("imgs", "bg.png")))
 
-STAT_FONT = pygame.font.SysFont("calibri", 50, True) # Font for the score
+STAT_FONT = pygame.font.SysFont("Lucida Console", 50, True) # Font for the score
 
 # Bird class (bird objects moving)
 class Bird:
