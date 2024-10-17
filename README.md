@@ -1,4 +1,4 @@
-# Python Project: Flappy Bird with NEAT AI <img width="158" alt="image" src="https://github.com/user-attachments/assets/5530545a-849a-4ec2-84f1-a7e288d5b788">
+# Python Project: Flappy Bird with NEAT AI <img width="58" alt="image" src="https://github.com/user-attachments/assets/5530545a-849a-4ec2-84f1-a7e288d5b788">
 
 
 
